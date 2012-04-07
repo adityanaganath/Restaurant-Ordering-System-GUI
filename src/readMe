@@ -1,0 +1,28 @@
+This program simulates a system for waiter to record customer orders and subsequently place orders. The user of the program first runs it and will then be prompted by a dialogue
+box asking for the name of a valid menu file. If the file is valid, a visual representation of the system will appear in front of the user containing all the items that were on the menu.
+The user must simply click on the buttons corresponding to the item - which will be recorded on a panel to the write. If the user makes a mistake, he press "Clear Order" to reset
+the order. Once the items have been chosen, the user can press "Place Order" which will simulate the sending of the order to the kitchen and will be recorded in a log file.
+
+The two salient design patterns I have employed are 1) The Singleton Pattern to create one instance of a file.
+This is so because I wanted all information to be written on one file. Consequently, I made a private
+method that returned an instance only if that instance was null (MenuReader Class). 2) The Observer pattern implemented through the
+ActionListeners which essentially "listen" to whether a button has been clicked - observing an event. This
+is neccessary as we would want responses from buttons after clicking them. The actionlisteners were placed
+in the main frame class.
+
+I had initially used PrintWriter to write onto a file however, the problem with this was that 
+the content would get overwritten each time I ran the program. But the assignment says that I need
+to log the entries for the day. This is why I chose to use FileWriter and BufferedWriter instead
+
+To make my gui look good and easy to use, I added big buttons along with setToolTipText which 
+deals with long entry items - once the user hovers over the button, the full name is displayed.
+I also added scroller panes to deal with large menus and large orders. Furthermore, I split
+ the frame into different panels - making it easy for the user to navigate the program.
+ I also decided to use light colors so as to not make the experience jarring for the user.
+ 
+ I also accounted for various errors. For example, if the user attempts to place an order without
+ any items having been ordered, I prompt the user to first order items. Also, the user cannot enter an invalid file
+ 
+ 
+ List of files: MainFrame.java, Restaurant Tester.java, MenuItem.java, readMe.txt
+

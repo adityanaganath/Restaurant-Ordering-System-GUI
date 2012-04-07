@@ -1,0 +1,78 @@
+Date: 1 14 2012 
+ 
+Order number1,  2012-04-01 03:08:24.794
+Zuppe Del Giorno
+5.95
+Prosciutto E Mozzarella Di Bufala
+9.95
+Misto Di Vegetali Alla Griglia
+6.95
+Portobello Mushrooms
+6.95
+La Pugliese
+10.95
+Ortolana
+10.95
+Total Price is: $51.70
+ 
+Date: 1 14 2012 
+ 
+Order number1,  2012-04-01 03:08:56.567
+Insalata Mista
+5.95
+Caprese mozzarella di bufala, tomatoes, and basil
+8.95
+Portobello Mushrooms
+6.95
+Total Price is: $21.85
+ 
+Order number2,  2012-04-01 03:09:18.292
+Bruschetta Al Pomodoro
+5.50
+Calamari Alla Griglia
+7.95
+Carpaccio classic beef carpaccio with arugula and shaved parmigiano cheese
+7.95
+Total Price is: $21.40
+ 
+Date: 1 14 2012 
+ 
+Order number1,  2012-04-01 15:23:53.662
+Total Price is: $0
+ 
+Date: 1 14 2012 
+ 
+Order number1,  2012-04-01 16:05:35.745
+Gnocchi Alla Sorrentina
+10.95
+Total Price is: $10.95
+ 
+Date: 1 14 2012 
+ 
+Order number1,  2012-04-01 17:05:59.849
+Calamari Alla Griglia
+7.95
+La Pugliese
+10.95
+Ortolana
+10.95
+Rigatoni Alla Siciliana
+10.95
+Spaghetti Chitarra Ragu D'Agnello
+11.95
+Spaghetti Chitarra Ragu D'Agnello
+11.95
+Insalata Di Rucola
+7.95
+Insalata Mista
+5.95
+Insalata Mista
+5.95
+Prosciutto E Mozzarella Di Bufala
+9.95
+Prosciutto E Mozzarella Di Bufala
+9.95
+Prosciutto E Mozzarella Di Bufala
+9.95
+Total Price is: $114.40
+ 
